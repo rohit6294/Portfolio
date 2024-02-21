@@ -206,6 +206,9 @@ nav a:hover::after {
     font-weight: 500;
     margin-bottom: 1rem;
 }
+.ps{
+    font-size: larger;
+}
 
 .project-info {
     font-size: 1.125rem;
